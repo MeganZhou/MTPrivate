@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response
+END
+ChangePasswordResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/ChangePasswordResponse.m
+END
+LoginHistory.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/LoginHistory.m
+END
+RedeemHistoryResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/RedeemHistoryResponse.h
+END
+AcktransBarcodeResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/AcktransBarcodeResponse.h
+END
+RedeemHistoryResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/RedeemHistoryResponse.m
+END
+ValidCodeResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/ValidCodeResponse.h
+END
+DotransBarcodeResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/DotransBarcodeResponse.h
+END
+AcktransBarcodeResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/AcktransBarcodeResponse.m
+END
+ValidCodeResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/ValidCodeResponse.m
+END
+DotransBarcodeResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/DotransBarcodeResponse.m
+END
+RedeemHistoryWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/RedeemHistoryWrapper.h
+END
+BaseResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/BaseResponse.h
+END
+RedeemHistoryWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/RedeemHistoryWrapper.m
+END
+LoginHistoryWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/LoginHistoryWrapper.h
+END
+CanceltransBarcodeResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/CanceltransBarcodeResponse.h
+END
+BaseResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/BaseResponse.m
+END
+SetUpDeviceResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/SetUpDeviceResponse.h
+END
+LoginHistoryWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/LoginHistoryWrapper.m
+END
+CanceltransBarcodeResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/CanceltransBarcodeResponse.m
+END
+CanceltransNumcodeReponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/CanceltransNumcodeReponse.h
+END
+DotransNumcodeResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/DotransNumcodeResponse.h
+END
+SetUpDeviceResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/SetUpDeviceResponse.m
+END
+LoginHistoryResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/LoginHistoryResponse.h
+END
+DotransNumcodeResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/DotransNumcodeResponse.m
+END
+CanceltransNumcodeReponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/CanceltransNumcodeReponse.m
+END
+CheckDeviceResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/CheckDeviceResponse.h
+END
+AcktransNumcodeReponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/AcktransNumcodeReponse.h
+END
+LoginHistoryResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/LoginHistoryResponse.m
+END
+CheckDeviceResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/CheckDeviceResponse.m
+END
+AcktransNumcodeReponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/AcktransNumcodeReponse.m
+END
+ChangePasswordResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Models/Response/ChangePasswordResponse.h
+END

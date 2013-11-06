@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  MarketingTools
+
+  Created by Megan on 7/1/13.
+  Copyright (c) 2013 Megan. All rights reserved.
+*/
+
+// ======== LoginViewController ======== //
+"Login.Label.HowTo" = "How to";
+"Login.Label.GetAccount" = "get your POS account?";
+
+"Login.Placeholder.PosAccount" = "POS Account";
+"Login.Placeholder.YourPassword" = "Your Password";
+
+"Login.Button.Login" = "Login";
+"Login.Label.Question" = "Has problem to login?";
+
+// ======== RedeemViewController ======== //
+"Redeem.Button.EnterNumcode" = "Enter Numbercode";
+
+"Redeem.Label.EnterNumcodeTip" = "Enter the 20-digits number code";
+"Redeem.Button.SubmitNumcode" = "Submit";
+"Redeem.Label.ConnectNetWork" = "Connecting network";
+"Redeem.Label.Verifying" = "Verifying the code, Please Wait...";
+"Redeem.Button.StartQRscan" = "Start QRscanner";
+
+"Redeem.Label.CodeValidTip" = "Code is Valid!";
+"Redeem.Label.Product" = "Product:";
+"Redeem.Label.Expiration" = "Expiration:";
+"Redeem.Label.Description" = "Description:";
+"Redeem.Label.Time" = "Time:";
+"Redeem.Button.ConfirmRedemption" = "Confirm Redemption";
+
+"Redeem.Label.RedeemTip" = "Redeem!";
+"Redeem.Button.RedeemAnother" = "Redeem another code";
+
+// ======== Common Message ======== //
+"Common.Button.Cancel" = "Cancel";
+"Common.ChangePassword" = "Change Password";
+"Common.Label.Month" = "/";
+"Common.Label.Day" = "";
+"NavBar.Button.Back" = "  Back";
+"Table.Label.More" = "More...";
+
+// ======== Transaction Detail ======== //
+"TransactionDetail" = "Transaction Detail";
+
+// ======== TabBarViewController ======== //
+"CustomTabbar.Label.Redeem" = "Redeem";
+"CustomTabbar.Label.History" = "History";
+"CustomTabbar.Label.Setting" = "Setting";
+
+// ======== SettingsViewController ======== //
+"Settings.Header.Label.MyAccount" = "My Account";
+"Settings.Header.Label.About" = "About";
+"Settings.Label.PosId" = "POS ID:";
+"Settings.Label.LoginHistory" = "My login history";
+"Settings.Label.HowTo" = "How-to";
+"Settings.Label.ClientVersion" = "Client Version: V1.0";
+"Settings.Button.Logout" = "Logout";
+
+// ======== ChangePasswordViewController ======== //
+"ChangePassword.Placeholder.CurrentPassword" = "Current Password";
+"ChangePassword.Placeholder.NewPassword" = "New Password";
+"ChangePassword.Placeholder.ConfirmNewPassword" = "Confirm New Password";
+
+// ======== Warning Message ======== //
+"Warning.Button.Cancel" = "Cancel";
+"Warning.Button.OK" = "OK";
+
+"Warning.Message.EnterNumcode" = "Please enter number code.";
+
+"Warning.Message.NilCurrentPassword" = "Please enter current password.";
+"Warning.Message.NilNewPassword" = "Please enter new password.";
+"Warning.Message.PasswordsNotConsistant" = "New password and confirm new pasword is not consistant, please retry.";
+"Warning.Message.ConfirmToChangePassword" = "Are you sure you want to change password?";
+
+"Warning.Message.NilPosAccount" = "Please enter POS Account.";
+"Warning.Message.NilPassword" = "Please enter your password.";
+
+"Warning.Message.NoNetwork" = "Cannot connect to server, please check you network.";
+"Warning.Message.TimeOut" = "Time Out";
+"Warning.Message.NetworkError" = "Network Error";
+
+"Indicator.Message.Loading" = "Loading...";

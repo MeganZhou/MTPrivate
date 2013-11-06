@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  MarketingTools
+
+  Created by Megan on 7/1/13.
+  Copyright (c) 2013 Megan. All rights reserved.
+*/
+
+// ======== LoginViewController ======== //
+"Login.Label.HowTo" = "怎样";
+"Login.Label.GetAccount" = "得到你的POS帐号？";
+
+"Login.Placeholder.PosAccount" = "POS帐号";
+"Login.Placeholder.YourPassword" = "密码";
+
+"Login.Button.Login" = "登录";
+"Login.Label.Question" = "登录有问题吗？";
+
+// ======== RedeemViewController ======== //
+"Redeem.Button.EnterNumcode" = "输入数字码";
+
+"Redeem.Label.EnterNumcodeTip" = "请输入20位数字码";
+"Redeem.Button.SubmitNumcode" = "提交";
+"Redeem.Label.ConnectNetWork" = "网络连接";
+"Redeem.Label.Verifying" = "正在验证数字码，请稍等。。。";
+"Redeem.Button.StartQRscan" = "开始QR码扫瞄";
+"Redeem.Label.CodeValidTip" = "码有效!";
+"Redeem.Label.Product" = "产品:";
+"Redeem.Label.Expiration" = "过期日期:";
+"Redeem.Label.Description" = "描述:";
+"Redeem.Label.Time" = "时间:";
+"Redeem.Button.ConfirmRedemption" = "确认交易";
+
+"Redeem.Label.RedeemTip" = "兑换成功!";
+"Redeem.Button.RedeemAnother" = "兑换另一个码";
+
+// ======== Common Message ======== //
+"Common.Button.Cancel" = "取消";
+"Common.ChangePassword" = "修改密码";
+"Common.Label.Month" = "月";
+"Common.Label.Day" = "日";
+"NavBar.Button.Back" = "  返回";
+"Table.Label.More" = "更多。。。";
+
+// ======== Transaction Detail ======== //
+"TransactionDetail" = "交易详情";
+
+// ======== TabBarViewController ======== //
+"CustomTabbar.Label.Redeem" = "兑换";
+"CustomTabbar.Label.History" = "历史纪录";
+"CustomTabbar.Label.Setting" = "设置";
+
+
+// ======== SettingsViewController ======== //
+"Settings.Header.Label.MyAccount" = "我的帐号";
+"Settings.Header.Label.About" = "关于";
+"Settings.Label.PosId" = "POS帐号:";
+"Settings.Label.LoginHistory" = "登录历史纪录";
+"Settings.Label.HowTo" = "帮助";
+"Settings.Label.ClientVersion" = "客户端版本: V1.0";
+"Settings.Button.Logout" = "退出";
+
+// ======== ChangePasswordViewController ======== //
+"ChangePassword.ChangePassword" = "修改密码";
+"ChangePassword.Placeholder.CurrentPassword" = "当前密码";
+"ChangePassword.Placeholder.NewPassword" = "新密码";
+"ChangePassword.Placeholder.ConfirmNewPassword" = "确认新密码";
+
+// ======== Warning Message ======== //
+"Warning.Button.Cancel" = "取消";
+"Warning.Button.OK" = "好";
+"Warning.Message.EnterNumcode" = "请输入数字码。";
+
+"Warning.Message.NilCurrentPassword" = "请输入当前密码。";
+"Warning.Message.NilNewPassword" = "请输入新的密码。";
+"Warning.Message.PasswordsNotConsistant" = "新密码和确认新密码不一致，请重新输入。";
+"Warning.Message.ConfirmToChangePassword" = "你确定要修改密码吗？";
+
+"Warning.Message.NilPosAccount" = "请输入POS帐号.";
+"Warning.Message.NilPassword" = "请输入你的密码。";
+
+"Warning.Message.NoNetwork" = "不能够连接到网络, 请检查你的网络。";
+"Warning.Message.TimeOut" = "发送请求超时";
+"Warning.Message.NetworkError" = "网络错误";
+
+"Indicator.Message.Loading" = "请稍后。。。";

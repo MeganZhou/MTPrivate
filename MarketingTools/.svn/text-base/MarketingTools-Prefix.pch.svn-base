@@ -1,0 +1,30 @@
+//
+// Prefix header for all source files of the 'MarketingTools' target in the 'MarketingTools' project
+//
+
+#import <Availability.h>
+
+#import "Preference.h"
+#import "AlertUtil.h"
+#import "ServiceWrapper.h"
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define AppPreference [Preference sharedPreference]
+#define AppServiceWrapper [ServiceWrapper sharedInstance]
+
+#define WarningAlert(message, delegate, tag) [[AlertUtil sharedAlertUtil] warningAlert:message withDelegate:delegate withTag:tag]
+#define WarningAlertWithCancel(message, delegate, tag) [[AlertUtil sharedAlertUtil] warningAlertWithCancel:message withDelegate:delegate withTag:tag]
+
+#define kDefaultWarningAlertTag 0
+
+#define ScreenHeight [[UIScreen mainScreen] bounds].size.height
+#define CustomNavbarHeight 46.0
+#define CustomTabbarHeight 69.0

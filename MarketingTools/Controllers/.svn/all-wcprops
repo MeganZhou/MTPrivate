@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/makeit/svn/!svn/ver/629/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers
+END
+LoginHistoryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/LoginHistoryViewController.h
+END
+CustomTabBarViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/CustomTabBarViewController.m
+END
+RedeemViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/RedeemViewController.xib
+END
+HelpViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/HelpViewController.m
+END
+LoginHistoryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/LoginHistoryViewController.m
+END
+RedeemViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/RedeemViewController.h
+END
+ChangePasswordViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/ChangePasswordViewController.xib
+END
+LoginViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/makeit/svn/!svn/ver/650/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/LoginViewController.xib
+END
+TransactionDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/TransactionDetailViewController.xib
+END
+BaseViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/BaseViewController.xib
+END
+RedeemViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/RedeemViewController.m
+END
+LoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/LoginViewController.h
+END
+ChangePasswordViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/ChangePasswordViewController.h
+END
+SettingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/SettingViewController.xib
+END
+TransactionDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/TransactionDetailViewController.h
+END
+BaseViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/BaseViewController.h
+END
+ChangePasswordViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/ChangePasswordViewController.m
+END
+LoginViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/makeit/svn/!svn/ver/650/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/LoginViewController.m
+END
+SettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/SettingViewController.h
+END
+TransactionDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/TransactionDetailViewController.m
+END
+RedeemHistoryViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/RedeemHistoryViewController.xib
+END
+BaseViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/BaseViewController.m
+END
+CustomTabBarViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/CustomTabBarViewController.xib
+END
+SettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/SettingViewController.m
+END
+HelpViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/HelpViewController.xib
+END
+RedeemHistoryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/RedeemHistoryViewController.h
+END
+LoginHistoryViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/LoginHistoryViewController.xib
+END
+CustomTabBarViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/CustomTabBarViewController.h
+END
+HelpViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/HelpViewController.h
+END
+RedeemHistoryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/makeit/svn/!svn/ver/629/trunk/POSApp/iOS/MarktingTools/MarketingTools/Controllers/RedeemHistoryViewController.m
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service
+END
+HttpResponseDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/HttpResponseDelegate.h
+END
+ServiceProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/ServiceProvider.h
+END
+ConnectionHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/ConnectionHandler.h
+END
+RequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/RequestConfig.h
+END
+ServiceProvider.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/ServiceProvider.m
+END
+ServiceWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/ServiceWrapper.h
+END
+ConnectionHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/ConnectionHandler.m
+END
+RequestConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/RequestConfig.m
+END
+ServiceWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/makeit/svn/!svn/ver/622/trunk/POSApp/iOS/MarktingTools/MarketingTools/Service/ServiceWrapper.m
+END
